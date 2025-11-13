@@ -9,3 +9,5 @@ Ip = xxx-xxx-xxx-xxx <br>
 The target is online and responded to a ping. <br>
 Latency is 0.0000040 seconds (4 microseconds) — extremely fast. <br>
 Nmap scanned the default 1000 most common TCP ports, but didn’t find any open ones.
+
+All the Screenshots, .xml File and .html File are attached in the Repository.
